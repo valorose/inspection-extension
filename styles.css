@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+
+#inspection-info {
+  margin-top: 15px;
+}
+
+#results {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input, button {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
